@@ -1,3 +1,6 @@
+#Expense_tracker
+New project under ElgoExperts
+
 The Expense Tracker app for Android is a powerful tool designed to help users efficiently manage their finances by tracking and organizing their expenses. This app enables users to record and monitor their spending habits, set budgets, and gain insights into their financial activities. Key features and functionalities of an Expense Tracker app typically include:
 
 1. Expense Logging: Users can log their expenses, categorize them (e.g., food, transportation, entertainment), and add relevant details such as date, time, and payment method.
